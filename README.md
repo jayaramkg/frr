@@ -8,3 +8,6 @@ docker run --name H1 --cap-add=NET_ADMIN --cap-add SYS_ADMIN --rm -it jayaram07k
 
 **Docker Image:**
 https://hub.docker.com/r/jayaram07kg/frr
+
+**Execute the below command to start the FRR service:**
+systemctl start frr
