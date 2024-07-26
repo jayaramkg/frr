@@ -2,7 +2,7 @@
 #
 
 FROM ubuntu:jammy-20240627.1
-MAINTAINER jayaram.k.g@gmail.com
+MAINTAINER your@email.address
 
 ARG DEBIAN_FRONTEND=noninteractive
 ENV APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE=DontWarn
